@@ -1,0 +1,6 @@
+##idea
+*.iml
+.idea
+##component
+components
+build

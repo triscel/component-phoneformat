@@ -1,0 +1,11 @@
+{
+    "name": "component-phoneformat",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": [
+        "index.js"
+    ],
+    "dependencies": {
+    },
+    "repository": "triscel/component-phoneformat"
+}
